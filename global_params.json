@@ -1,0 +1,10 @@
+{
+    "csv_path": "./dataset.csv",
+    "train_background_dir": "./backgrounds/background",
+    "validation_background_dir": "./backgrounds/validation_background",
+    "load_model_path": "./weight/person{}_.pt",
+    "save_model_path": "./weight/person{}.pt",
+    "save_latest_model_path": "./weight/person{}_latest.pt",
+    "backup_model_path": "./weight/person{}_.bak.pt",
+    "size": [192, 128]
+}

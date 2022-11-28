@@ -1,0 +1,11 @@
+albumentations==1.3.0
+matplotlib==3.6.2
+numpy==1.23.5
+opencv-python==4.6.0.66
+pandas==1.5.2
+Pillow==9.3.0
+scipy==1.9.3
+segmentation-models-pytorch @ git+https://github.com/munehiro-k/segmentation_models.pytorch.git@a4be99d87f484d0bbf5fa66bd6d504485c5d73f2
+torch==1.13.0
+torch-optimizer==0.3.0
+torchvision==0.14.0
